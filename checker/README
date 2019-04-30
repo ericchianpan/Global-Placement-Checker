@@ -1,0 +1,3 @@
+Usage:
+    chmod 744 checker
+    ./checker [input_blif] [output.pl] [core_width] [core_height]
